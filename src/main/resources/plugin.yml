@@ -1,0 +1,5 @@
+name: MCOasis
+version: '${project.version}'
+main: com.mcoasis.MCOasis
+api-version: '1.20'
+load: STARTUP
