@@ -1,4 +1,6 @@
 name: MCOasis
+authors:
+  - EthanGarey
 version: '${project.version}'
 main: com.mcoasis.MCOasis
 api-version: '1.20'
